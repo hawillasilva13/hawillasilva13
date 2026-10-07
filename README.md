@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Hawilla
 
-<!--
-**hawillasilva13/hawillasilva13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando Engenharia de Dados e desenvolvendo projetos práticos para aplicar o que venho aprendendo.
 
-Here are some ideas to get you started:
+Atualmente estudo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Pandas
+- PostgreSQL
+- ETL
+- Git e GitHub
+
+## Projetos
+
+### Pipeline de Vendas
+
+Projeto criado durante meus estudos de Engenharia de Dados.
+
+O pipeline lê dados de um arquivo CSV, realiza validações e transformações com Python e Pandas e depois carrega os dados em um banco PostgreSQL.
+
+Pretendo continuar evoluindo esse projeto conforme avanço nos estudos.
+
+## Atualmente estudando
+
+Estou aprofundando meus conhecimentos em Engenharia de Dados, bancos de dados e construção de pipelines.
